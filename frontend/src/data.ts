@@ -48,5 +48,5 @@ export const sampleProducts: Product[] = [
     rating: 4.0,
     numReviews: 10,
     description: 'high quality shirt',
-  },
+  },  
 ];

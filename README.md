@@ -21,3 +21,4 @@
     2. create route for home page
     3. create router for product page
     4. add helemet for setting page title
+8. Buraya ne yazdı göremedim :D 
